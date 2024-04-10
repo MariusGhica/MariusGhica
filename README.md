@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 m currently working at Angsa Robotics and studying Electrical Engineering at the Technical University of Munich.
-- 🌱 I’m currently learning about embedded systems and integrated circuits
+- 🔭 m currently studying Electrical Engineering at the Technical University of Munich.
+- 🌱 I’m currently learning about embedded systems, integrated circuits and RF engineering
 - 📫 How to reach me: mariusconstantinghica@gmail.com
 - ⚡ Fun fact: If I won the lottery, the first thing I’d buy would be a cappuccino.
 
